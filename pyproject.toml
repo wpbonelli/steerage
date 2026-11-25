@@ -1,0 +1,13 @@
+[project]
+name = "steerage"
+version = "0.1.0"
+description = "Mine agent transcripts and GitHub PRs for how a user revises agent work"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+steerage = "steerage.__main__:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

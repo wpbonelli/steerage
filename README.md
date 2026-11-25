@@ -13,5 +13,5 @@ scrape GitHub, know thyself, keep thine robot in line
 
 Slop Token Effluent Engenders RAGE.
 Stop This Emotional Excess. Read All Git(Hub) Events.
-Save The Essential Elements. Robot Adducts GEstalt.
+Save The Essential Elements. Robot Adduc[e/t]s GEstalt.
 See? That's Easy. Embrace Relaxation And Good Energy.

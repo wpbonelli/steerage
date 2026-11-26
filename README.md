@@ -9,5 +9,6 @@ Slop Token Effluent Engenders RAGE.
 Stop This Emotional Excess. Read All Git(Hub) Events.
 Save The Essential Elements. Robot Adduc[e/t]s GEstalt.
 See? That's Easy. Embrace Relaxation And Good Energy.
-Summon The Embryonic Entity. Rectify A Great Egg.
+Summon The Embryonic Entity. Reveal A Great Egg.
+Sing[,/e] Th[ee,/e] Earthly Envelope! Rectify Antipathies. Globalize Empathy.
 Ships (Theseus Exemplar) Evolve, Renew, And Gain Eternity.
